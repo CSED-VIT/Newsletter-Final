@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- Basic Page Needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>Newsletter - SHEILD</title>
+	<meta name="description" content="">  
+	<meta name="author" content="">
+
+   <!-- Mobile Specific Metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+	<!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">
+   <link rel="stylesheet" href="css/media-queries.css">
+   <link rel="stylesheet" href="css/animate.css">
+   <link rel="stylesheet" href="css/prettyPhoto.css">
+   <link rel="stylesheet" href="css/mod.css">
+
+   <!-- Script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.png" >
+
+</head>
+
+<body>
+
+   <div id="preloader">      
+      <div id="status">
+         <img src="images/preloader.gif" height="64" width="64" alt="">
+      </div>
+   </div>
+
+   <!-- Header
+   ================================================== -->
+   <header>
+
+      <div class="logo">
+         <a href="http://www.nyan.cat/original" target="_blank"><img alt="" src="images/logo.png"></a>
+      </div>
+
+      <nav id="nav-wrap">         
+         
+         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show Menu</a>
+	      <a class="mobile-btn" href="#" title="Hide navigation">Hide Menu</a>         
+
+         <ul id="nav" class="nav">
+            <li><a class="smoothscroll" href="#president">President's Column</a></li>
+	         <li><a class="smoothscroll" href="#goals">Goals</a></li>
+            <li><a class="smoothscroll" href="#dom">Department of the Month</a></li>
+            <li><a class="smoothscroll" href="#features">Member of the Month</a></li>
+            <li><a class="smoothscroll" href="#vp">VP's Column</a></li>
+            <li><a class="smoothscroll" href="#screenshots">Meme's</a></li>
+            <li><a class="smoothscroll" href="#subscribe">Subscribe</a></li>
+         </ul> <!-- end #nav -->
+
+      </nav> <!-- end #nav-wrap -->
+
+      <ul class="header-social">
+         <li><a href="https://www.facebook.com/sheildvit/?fref=ts"><i class="fa fa-facebook"></i></a></li>
+      </ul>
+
+   </header> <!-- Header End -->
+
+
+   <!-- Homepage Hero
+   ================================================== -->
+   <section id="hero">
+
+	   <div class="row">
+
+
+            <div class="hero-image">
+               <img src="images/head.png" alt="" />
+            </div>
+
+
+
+	   </div>
+
+       <center>
+               <div class="columns item">
+                  <div class="item-wrap">
+
+                     <a href="images/woof1.jpg" data-imagelightbox="a" >
+                        <div class="overlay"></div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div>  <!-- item end -->
+       </center>
+   </section> <!-- Homepage Hero end -->
+
+
+   <!-- Nitya
+   ================================================== -->
+   <section id="president" style="padding: 40px 0 72px; background: #fff;">
+       <div class="row">
+           <div class="twelve column">
+               <center>
+               <img src="images/prez.jpg">
+               </center>
+           </div>
+       </div>
+       <div class="row section-head">
+           <h1> President's Column </h1>
+           <p class="lead add-bottom">
+
+           <h5>Nitya</h5> <br>
+Hi,
+I hope you all are having sleepless nights, engineering  withdrawal symptoms. Its that time of the year I skip in my calendar.
+But yeah to begin with we have conducted an event called ideathon, which we all as a club worked together on and could call our own.
+I always wanted each member of this organisation to network among each other, but it was hard as all of you already have friends and saw SHEILD as just a place of work.
+One thing I saw on the day of the event which I felt was as an achievement for me to see each member coordinate with people, stay calm in a confused state, did everything to make the event a success. More than this I saw ownership towards the club in each of you.
+<br>
+<br>
+If we all are able to work together like this we can do wonders with the club.
+We have shortlisted about twelve ideas from the event on which the startups department will be working on; to check the feasibility and how to go about them, you guys will be kept up to date with all that information.
+<br>
+<br>
+I want each of you to work on the tasks given by your VP’s. Don’t think of it as a job that you need to complete cause you are being forced to, we do not gain anything out of it. You gain knowledge which helps you in becoming an entrepreneur. 
+Apart from all that try keeping yourself up to date with the advancements in technology, world news, sports, fashion, music, etc.  A person with knowledge is always looked upon and respected.
+<br><br>
+Next semester we will be working on leadership development and make it a major aspect.
+If you do not relate to the things above please sit down and think of the purpose you joined this club.
+Apply for the organising committee each of you, even if you don’t get it, filling out the application would be an experience to assess yourself. 
+Ending this saying best of luck for the rest of your exams and happy holidays.
+           </p>
+       </div>
+
+
+   </section> 
+
+   <div id="goals">
+    <section id="call-to-action">
+
+      <div class="row">
+
+         <div class="two columns header-col">
+
+
+         </div>
+
+         <div class="twelve column">
+
+            <h1 style="font-size: 2em;">Next Months Targets!</h1>
+
+         </div>
+         <div class=" twelve columns">
+		 <p>
+		 
+             <ul style="list-style-type: circle; color: #fff; font-size: 1.5em; line-height: 150%;">
+                 <li>Weekly goals to be given to each member, department-wise.</li>
+                 <li>We will focus on individual member development.</li>
+                 <li>Public Relation will start working towards Gravitas'.</li>
+                 <li>Blogs needs to be up by the end of the vacations</li>
+                 <li>Have fun during the vacations</li>
+         </div>
+
+
+      </div>
+
+   </section> <!-- Call-To-Action Section End-->
+   </div>
+
+   <!-- Next 3 month goals -->
+   <section id="pricing">
+
+      <div class="row section-head">
+
+          <h1>
+                “We all know interspecies romance is weird.”
+                <br>
+                ― Tim Burton
+          </h1>
+
+      </div>
+
+      <div class="row">
+
+
+      </div>
+
+   </section> 
+
+  <div id="dom">
+   <section id="call-to-action" style="background: #17bebb">
+
+      <div class="row">
+           <div class="twelve column">
+               <center>
+                   <h1>Department of the Month</h1>
+               </center>
+           </div>
+       </div>
+       <div class="row section-head">
+           <p class="lead add-bottom">
+           <div style="color:white;">
+           <h4 style="color: #fff;">Events</h4>
+           <br>
+This department has been working it’s off for a long time and is very deserving of its title. The perfect definition of a team,all the members stand united in all the work they deliver hence the success. The team was very successful in planning and designing a nouvelle event to the club, ‘IDEATHON’. This was accomplished only because the diligent working  nature of every single member who took it upon themselves to complete each and every task assigned on time as assigned by their leader. Even with the workload they had, the team did each part of their work with a lot of enthusiasm and SHEILD respects them for that. We expect the same amount, if not more dedication and diligence in all the forthcoming events hosted by the club. KUDOS TO EACH AND EVERY MEMBER.
+<br> <!-- <div style="color: white; text-align: right;">- Sahil, Vice-President Public Relations</div> -->
+           </div>
+           </p>
+
+      </div>
+
+   </section> <!-- Call-To-Action Section End-->
+   </div>
+
+
+
+
+
+
+
+   <section id='features'>
+
+      <div class="row feature design">
+          <center>
+              <img src="images/emp.gif">
+          <h1 style="margin-bottom: 30px;"></h1>
+          </center>
+
+         <div class="six columns right">
+            <h3>Editorial.</h3>
+
+            <p>Corrina<br>
+        Congratulations! One of the most charming people that you'll meet in the club. Always punctual about the work that is assigned to her, and submits it way before the deadline. She shows initiative and ownership in her work. We are glad to have you as a part of our team.
+            </p>
+         </div>
+
+         <div class="six columns feature-media left">
+             <img src="images/feature-image-1.png" alt="" />
+         </div>
+
+      </div>
+
+      <div class="row feature responsive">
+
+         <div class="six columns left">
+            <h3>Events.</h3>
+
+            <p>Joy & Apoorv <br>Both of the people are very hard-working which is why we have decided to give both of them the MoM. Their enthusiasm is infectious, and they are one of the most committed people to the organization. They always show up smiling to the work, and we all love the fact that they are part of our team. They did a fantastic job in handling the ideathon.
+            </p>
+         </div>
+
+         <div class="six columns feature-media right">
+             <img src="images/feature-image-2.png" alt="" />
+         </div>
+
+      </div>
+
+      <div class="row feature cross-browser">
+
+         <div class="six columns right">
+            <h3>Finance.</h3>
+
+            <p>Tarang<br>
+Nobody can steal this title from this young man not only because he’s the perfect fit for his position but also because he’s the only one works in the department! That’s right! He’s the backbone of our finances and is hopefully not embezzling hehe. No matter how much pressure he’s under, owing to the multiple clubs he’s part of, he always has a smile on his face and is very approachable. Probably why he’s got the ladies weak at their knees xP
+            </p>
+         </div>
+
+         <div class="six columns feature-media left">
+             <img src="images/feature-image-3.png" alt="" />
+         </div>
+
+      </div>
+
+      <div class="row feature video">
+
+         <div class="six columns left">
+            <h3>Human Resources.</h3>
+
+            <p>Sonal<br> Hardworking, dedicated and passionate would be small number of adjectives to describe this beauty with brains.  The very deserving member of the month from HR is always ready to learn new things and keep her team going in the right track with her leadership capabilities. Being the social butterfly that she is, she’s bubbling with new ideas and waiting to be heard. A true asset to SHEILD.
+            </p>
+         </div>
+
+         <div class="six columns feature-media right">
+             <div class="fluid-video-wrapper">
+            <img src="images/feature-image-4.png" alt="" />
+             </div>
+         </div>
+
+      </div>
+
+      <div class="row feature design">
+
+         <div class="six columns right">
+            <h3>Marketing.</h3>
+
+            <p>Archit <br>
+This guy has insane motivation. It’s hard to imagine that someone who wasn't even on facebook a few months back is handling his own page so well. He takes initiative with tremendous enthusiasm. Always punctual for the meetings and his deadlines.Very deserving of the title he’s been honoured with.
+Congratulations man!
+            </p>
+         </div>
+
+         <div class="six columns feature-media left">
+             <img src="images/feature-image-5.png" alt="" />
+         </div>
+
+      </div>
+
+      <div class="row feature responsive">
+
+         <div class="six columns left">
+            <h3>Pubic Relations.</h3>
+            <p>Amatya<br>
+Congratulations to Amatya Sonbhadra for receiving Member of the Month for Public Relations! Amtya is a hard worker who really puts himself out of his comfort zone.He never shy aways from taking on duties and is really punctual(Frankly we have no idea how he does that?). We can see your dedication to the club. Keep up the good work!
+            </p>
+         </div>
+
+         <div class="six columns feature-media right">
+             <img src="images/feature-image-6.png" alt="" />
+         </div>
+
+      </div>
+
+      <div class="row feature cross-browser">
+
+         <div class="six columns right">
+            <h3>Startups.</h3>
+
+            <p>Madhav<br>The first MoM for this *brand new* department is Madhav! :D
+His calm and talkative demeanor makes him one of the most interesting people in the club. But once he starts talking about work he's focused, concise and effective. A hard worker and initiative taker, he is a quick learner and has an unparalleled passion for startups. Go Madhav! 
+            </p>
+         </div>
+
+         <div class="six columns feature-media left">
+             <img src="images/feature-image-7.png" alt="" />
+         </div>
+
+      </div>
+
+      <div class="row feature video">
+
+         <div class="six columns left">
+            <h3>Tech/Design.</h3>
+
+            <p>Pavan<br>So, the much awaited Fav Techie of April is *drum roll* Pavan Kumar! He’s the guy who designed those awesome quirky T-shirts for Ideathon. Shy and sweet at first, he's an absolute sweetheart once he opens up. A hard worker, he's reliable and has a keen eye for aesthetic. Keep it up, Pavz. 
+            </p>
+         </div>
+
+         <div class="six columns feature-media right">
+             <div class="fluid-video-wrapper">
+            <img src="images/feature-image-8.png" alt="" />
+             </div>
+         </div>
+
+      </div>
+      
+      <div class="row feature cross-browser">
+
+         <div class="six columns right">
+            <h3>University Relations.</h3>
+
+            <p>Divyanshu<br>Congratulations to Divyanshu, for becoming the member of the month for UR. We are all impressed by your good management skills and your work. You are the one guy who knows how to get things done. Exactly the kind of person that we need to work for UR.
+            </p>
+         </div>
+
+         <div class="six columns feature-media left">
+             <img src="images/feature-image-9.png" alt="" />
+         </div>
+
+      </div>
+   </section> <!-- Homepage Hero end -->
+
+
+   <!-- Call-To-Action Section
+   ================================================== -->
+   <div id="vp">
+   <section id="call-to-action">
+
+      <div class="row">
+           <div class="twelve column">
+               <center>
+               <img src="images/vp.jpg">
+               </center>
+           </div>
+       </div>
+       <div class="row section-head" style="color: #fff">
+           <h1>VP's Colon </h1>
+           <p class="lead add-bottom" style="color: #fff">
+           <h4 style="color: #fff;">Sanyam, VP Startup's</h4>
+            <br>
+I believe SHEILD is a club like none other. It’s an organisation which focuses a lot on member Development, has a very systematic way of working and also helps you build confidence and to trust in your abilities to achieve whatever you want. All while focusing a lot on inculcating the skills required to be an entrepreneur in you guys.
+I expect all of you to feel a sense of ownership towards the club and always look forward to learning new things and benefit as much as you can from SHEILD.
+I myself was clueless about how to work when I first joined the organization. I saw most of my peers getting recognized by seniors for their work and kind of felt unnoticed. However, all that changed when I got into the events team and all my inputs really started to matter and my whole journey has been with a crazy amount of ups and downs which has taught me most of the things I feel I know about management. Also, it has created a liking towards entrepreneurship in me.
+At the end of the day my aim for SHEILD is to be a platform which startups can approach if they are looking for any sort of help.
+<br>
+<div>Message for the Fresher's: You never lose until you give up.</div>
+           </p>
+
+      </div>
+
+   </section> <!-- Call-To-Action Section End-->
+   </div>
+   <section id="president" style="padding: 40px 0 72px; background: #fff;">
+       <div class="row" style="margin-bottom: 4%; margin-top: 2%;">
+           <center>
+           <div class="six columns">
+               <a class="button" href="tech.html">Didi Chuxing Funding Final</a>
+           </div>
+           <div class="six columns">
+               <a class="button" href="poker.html">The Online Poker Scene</a> 
+           </div>
+           </center>
+       </div>
+ 
+       <div class="row section-head" style="text-align: left;">
+           <center> <h1> Basic Startup Terms </h1></center>
+           <p class="add-bottom">
+           <dl>
+               <dt>Bootstrapped</dt>
+               <dd>A company is bootstrapped when it is funded by an entrepreneur's personal resources or the company's own revenue. Evolved from the phrase "pulling oneself up by one's bootstraps."</dd>
+               <br>
+               <dt>Due diligence</dt>
+               <dd>An analysis an investor makes of all the facts and figures of a potential investment. Can include an investigation of financial records and a measure of potential ROI. </dd>
+               <br>
+               <dt>Incubator</dt>
+               <dd>An organization that helps develop early stage companies, usually in exchange for equity in the company. Companies in incubators get help for things like building their management teams, strategizing their growth, etc.</dd>
+               <br>
+               <dt>ROI</dt>
+               <dd>This is the much-talked-about "return on investment." It's the money an investor gets back as a percentage of the money he or she has invested in a venture. For example, if a VC invests $2 million for a 20 percent share in a company and that company is bought out for $40 million, the VC's return is $8 million.</dd>
+               <br>
+               <dt>Term sheet</dt>
+               <dd>A non-binding agreement that outlines the major aspects of an investment to be made in a company. A term sheet sets the groundwork for building out detailed legal documents.</dd>
+               <br>
+               <dt>Exit Strategy</dt>
+               <dd>How you will sell the company and make your investors lots of money.  Who is going to buy you and why?</dd>
+               <br>
+               <dt>First Mover Advantage</dt>
+               <dd>Not every start-up is the first to market, but if you are, you want to point that out to investors. Be aware that this can be both a pro and con, as you may have to educate your market as you go, so the sales you make will cost more than they would in a market with clearly established demand.</dd>
+           </dl>
+
+           </p>
+       </div>
+   </section> 
+
+   <!-- Screenshots
+   ================================================== -->
+   <section id="screenshots">
+
+      <div class="row section-head">
+
+         <h1>Me-Me You-You.</h1>
+
+
+      </div>
+
+      <div class="row">
+
+         <div class="twelve columns">
+
+            <!-- screenshots-wrapper -->
+            <div id="screenshots-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+
+          	   <div class="columns item">
+                  <div class="item-wrap">
+
+                     <a href="images/meme1.png" data-imagelightbox="a" >
+                        <img src="images/meme1.png" alt="1">
+                        <div class="overlay"></div> 
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns item">
+                  <div class="item-wrap">
+
+                     <a href="images/meme2.png" data-imagelightbox="a" >
+                        <img src="images/meme2.png" alt="2">
+                        <div class="overlay"></div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns item">
+                  <div class="item-wrap">
+
+                     <a href="images/meme3.png" data-imagelightbox="a" >
+                        <img src="images/meme3.png" alt="3">                        
+                        <div class="overlay"></div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns item">
+                  <div class="item-wrap">
+
+                     <a href="images/meme4.png" data-imagelightbox="a" >
+                        <img src="images/meme4.png" alt="4">
+                        <div class="overlay"></div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns item">
+                  <div class="item-wrap">
+
+                     <a href="images/meme5.png" data-imagelightbox="a" >
+                     	<img src="images/meme5.png" alt="5">
+                       	<div class="overlay"></div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns item">
+                  <div class="item-wrap">
+
+                     <a href="images/meme6.png" data-imagelightbox="a" >
+                        <img src="images/meme6.png" alt="6">
+                        <div class="overlay"></div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns item">
+                  <div class="item-wrap">
+
+                     <a href="images/meme7.png" data-imagelightbox="a" >
+                        <img src="images/meme7.png" alt="7">                        
+                        <div class="overlay"></div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns item">
+                  <div class="item-wrap">
+
+                     <a href="images/meme8.png" data-imagelightbox="a" >
+                        <img src="images/meme8.png" alt="8">
+                        <div class="overlay"></div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div>  <!-- item end -->
+
+            </div> <!-- portfolio-wrapper end -->
+
+         </div> <!-- twelve columns end -->
+
+      </div>  <!-- end row -->
+
+   </section> <!-- Screenshots End -->
+<!--
+
+   <!-- Testimonials Section
+   ================================================== -->
+   <section id="testimonials">
+
+      <div class="row content">
+
+         <span><i class="quote-left fa fa-quote-left"></i></span>
+
+         <div class="text-container">
+
+            <div class="twelve columns">
+
+               <h1>What People Are Saying.</h1>
+
+            </div>
+
+            <div class="twelve columns flex-container">
+
+               <div class="flexslider">
+
+                  <ul class="slides">
+
+                     <li>
+                        <blockquote>
+                           <p> “I refuse to answer that question on the grounds that I don't know the answer”
+                           </p>
+                           <cite>Me during my Math CAT</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+
+                     <li>
+                        <blockquote>
+                           <p> A day without sunshine is like, you know, night.
+                           </p>
+                           <cite>No idea who said that</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+                    <li>
+                        <blockquote>
+                           <p> The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.</p>
+                           <cite>Terry Pretchett</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+                    <li>
+                        <blockquote>
+                           <p> Would it save you a lot of time if I just gave up and went mad now?</p>
+                           <cite>Douglas Adams</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+                     <li>
+                        <blockquote>
+                           <p> My blind girlfriend once complimented me on the size of my willy. But I think she was just pulling my leg.</p>
+                           <cite>True Story</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+
+
+                  </ul>
+
+               </div> <!-- div.flexslider ends -->
+
+            </div> <!-- div.flex-container ends -->
+
+         </div>  <!-- text-container ends -->
+
+         <span><i class="quote-right fa fa-quote-right"></i></span>
+
+      </div> <!-- row ends -->
+
+   </section> <!-- Testimonials Section End-->   -->
+
+
+   <!-- Subscribe
+   ================================================== -->
+
+
+   <!-- Footer
+   ================================================== -->
+   <footer>
+
+      <div class="row">         
+         <div id="go-top">
+            <a class="smoothscroll" title="Back to Top" href="#hero"><i class="icon-up-open"></i></a>
+         </div>
+
+      </div> <!-- Row End -->
+
+   </footer> <!-- Footer End-->
+
+
+   <!-- Java Script
+   ================================================== -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+
+   <script src="js/jquery.flexslider.js"></script>
+   <script src="js/waypoints.js"></script>
+   <script src="js/jquery.fittext.js"></script>
+   <script src="js/jquery.fitvids.js"></script>
+   <script src="js/imagelightbox.js"></script>
+   <script src="js/jquery.prettyPhoto.js"></script>   
+   <script src="js/main.js"></script>
+
+</body>
+
+</html>

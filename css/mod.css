@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(./fonts/montserret.ttf);
+}
+
+@font-face {
+    font-family: Dosis;
+    src: url(./fonts/dosis.ttf);
+}
+
+@font-face {
+    font-family: "Gloria Hallelujah";
+    src: url(./fonts/gloria.ttf);
+}
+
+
+@font-face {
+    font-family: "Francois One";
+    src: url(./fonts/franc.ttf);
+}
+
+
+
+body {
+    font-family: 'Dosis';
+    font-size: 1.5em;
+    color: #000;
+}
+
+.section-head {
+    font-size: 1.6em;
+}
+
+#woof {
+    margin-bottom: -10px;
+}
+
+p {
+    font-size: 1.3em;
+}
