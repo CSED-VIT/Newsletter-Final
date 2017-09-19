@@ -57,6 +57,9 @@ d. Default Styles
    margin: -32px 0 0 -32px;  
    padding: 0;    
 }
+#particles-js {
+  background: cornflowerblue;
+}
 
 /* ------------------------------------------------------------------
 /* c. Reset
@@ -781,6 +784,9 @@ properly.
 @media only screen and (max-width: 480px) {
 
    .row { width: auto; }
+    #screenshots{
+        display: none;
+    }
 
 }
 

@@ -50,7 +50,17 @@ body { background: #181d21; }
 .section-head b{
     font-size: 19px;
 }
-
+/*
+#particles-js{
+    display:block;
+    background: rgb(33,36,50);
+    position: fixed;
+    z-index: -1;
+}
+#president{
+    position: absolute !important;
+}
+*/
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
@@ -164,7 +174,9 @@ ul#nav li a:hover {
 ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #fff; }
 
-
+.prez{
+    border-radius: 50%;
+}
 /* ------------------------------------------------------------------ */
 /* c. Hero Section
 /* ------------------------------------------------------------------ */

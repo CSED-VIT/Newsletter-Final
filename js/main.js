@@ -20,7 +20,10 @@
     	$('.js #hero .hero-image img').addClass("animated fadeInUpBig"); 
       $('.js #hero .buttons a.trial').addClass("animated shake");    
 
-  	}) 
+  	});
+    
+    var h = $(window).height();
+    $(".hero-image img").css({"height" : h+"-100px" });
 
 
   	/*---------------------------------------------------- */
