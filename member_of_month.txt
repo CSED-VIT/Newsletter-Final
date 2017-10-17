@@ -1,0 +1,113 @@
+<section id='features'>
+   <div class="row feature design">
+      <center>
+         <img src="images/emp.gif">
+         <h1 style="margin-bottom: 30px;"></h1>
+      </center>
+      <div class="six columns right">
+         <h3>Human Resources.</h3>
+         <p>Nehalika<br>
+            She takes initiative with great enthusiasm and gets the work done with perfection. Always bringing great ideas to the table and with her helpful nature she will surely do great things. We wish her a great future in SHEILD.
+            <br><br>
+            “Keep your eyes on the star and your feet on the ground💫” - Nehalika
+         </p>
+      </div>
+      <div class="six columns feature-media left">
+         <img src="images/nehalika%20resize.jpg" alt="" />
+      </div>
+   </div>
+   <div class="row feature responsive">
+      <div class="six columns left">
+         <h3>Editorial.</h3>
+         <p>Akshat <br>He is a person who never has no for an answer, always eager to learn and write more. We can't wait to impart knowledge from you through your articles. We all welcome you into the fam.
+            <br><br>
+            'Will most probably be late because of who I am as a person.' - Akshat
+         </p>
+      </div>
+      <div class="six columns feature-media right">
+         <img src="images/akshat.jpg" alt="" />
+      </div>
+   </div>
+   <div class="row feature cross-browser">
+      <div class="six columns right">
+         <h3>Events.</h3>
+         <p>Parth Gupta<br>
+            His contribution towards the organisation has been tremendous. Notably he has improved a lot in the terms of attendance and meeting ethics. The work he did for Expo 1 and OC is also commendable.
+            <br><br>
+            “The people you think matter does not even exist in the best stories of your life” - Parth
+            </a>
+         </p>
+      </div>
+      <div class="six columns feature-media left">
+         <img src="images/parth%20re.jpg" alt="" />
+      </div>
+   </div>
+   <div class="row feature video">
+      <div class="six columns left">
+         <h3>Finance.</h3>
+         <p>Tarang<br>
+            He does work. :p
+         </p>
+      </div>
+      <div class="six columns feature-media right">
+         <div class="fluid-video-wrapper">
+            <img src="images/tarang%20resized.jpg" alt="" />
+         </div>
+      </div>
+   </div>
+   <div class="row feature responsive">
+      <div class="six columns right">
+         <h3>University Relations.</h3>
+         <p>Skrillex<br>
+            He has been awarded the member of the month for UR the second time. His dedication and love towards the organisation is humungous. He did a really great job as the president of the OC.
+            <br>
+            “Everything you are going through is preparing you for what you asked for” - Nikunj
+         </p>
+      </div>
+      <div class="six columns feature-media left">
+         <img src="images/skrillex.jpg" alt="" />
+      </div>
+   </div>
+   <div class="row feature cross-browser">
+      <div class="six columns left">
+         <h3>Public Relations.</h3>
+         <p>Aaftab Aloowala <span><img src="images/potatoes.jpg" style="border-radius:50%;" height="40" width="40"></span><br>He is clearly doing a great job with the PR department being the two time winner of member of the month. His work in gaining sponsorship for Gravitas was just incredible.
+            <br>
+            <br>
+            “The idea is to die young as late as possible!” - Aaftab
+         </p>
+      </div>
+      <div class="six columns feature-media right">
+         <img src="images/aloo.jpg" alt="" />
+      </div>
+   </div>
+   <div class="row feature video">
+      <div class="six columns right">
+         <h3>Design.</h3>
+         <p>Dwija<br>Her designs are alway on point. She does all the work given to her and is doing a great job in tech and design although the marketing department misses her :’)
+            <br>
+            <br>
+            "Sometimes the hardest thing and the right thing are the same." - Dwija
+         </p>
+      </div>
+      <div class="six columns feature-media right">
+         <div class="fluid-video-wrapper">
+            <img src="images/dwija%20resized.jpg" alt="" />
+         </div>
+      </div>
+   </div>
+   <div class="row feature cross-browser">
+      <div class="six columns left">
+         <h3>Technical.</h3>
+         <p>Anandu<br>He is the OG of this game. He is the backbone of our website and is a backend developer. Let us tell you that this guy is crazy intelligent and we are glad to have him with us.
+            <br>
+            <br>
+            “The only difference between the successful and the unsuccessful are the letters 'ly' - the former hard-work while the latter hardly-work.” - Anandu
+         </p>
+      </div>
+      <div class="six columns feature-media right">
+         <img src="images/anandu%20resized.jpg" alt="" />
+      </div>
+   </div>
+</section>
+<div id="vp">
