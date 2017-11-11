@@ -814,12 +814,11 @@ properly.
 .cf:after {
     clear: both;
 }
-
 /*  2. Misc -------------------------------------------------------- */
 
 .remove-bottom { margin-bottom: 0 !important; }
 .half-bottom { margin-bottom: 12px !important; }
-.add-bottom { margin-bottom: 24px !important; }
+.add-bottom { margin-bottom: 24px !important; color:#ecf0f1; }
 .no-border { border: none; }
 
 .text-center  { text-align: center !important; }
